@@ -1,4 +1,4 @@
-# Aluno: Bruno Felipe Santana de Melo
+# Aluno: Kayque Berghe de Morais
 
 Para a atividade, criei um banco de dados com H2 Database, possuindo as tabelas ALUNO, EMPRESTIMO e PUBLICACAO, representando um sistema de biblioteca. Adcionei as relações entre tabelas com as “foreign keys”.
 A conexão com o H2 Database foi feita usando o driver e o caminho local do banco de dados. As classes foram geradas automaticamente pelo NetBeans, que mapeou as tabelas escolhidas e as ligou aos atributos das classes que serão usadas em Java.
