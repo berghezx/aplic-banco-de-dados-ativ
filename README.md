@@ -1,1 +1,0 @@
-# aplic-banco-de-dados-ativ
